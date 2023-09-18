@@ -1,0 +1,14 @@
+/Users/i-send/Desktop/Examples/Example001/bin/Debug/net7.0/Example001
+/Users/i-send/Desktop/Examples/Example001/bin/Debug/net7.0/Example001.deps.json
+/Users/i-send/Desktop/Examples/Example001/bin/Debug/net7.0/Example001.runtimeconfig.json
+/Users/i-send/Desktop/Examples/Example001/bin/Debug/net7.0/Example001.dll
+/Users/i-send/Desktop/Examples/Example001/bin/Debug/net7.0/Example001.pdb
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/Example001.AssemblyInfoInputs.cache
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/Example001.AssemblyInfo.cs
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/Example001.csproj.CoreCompileInputs.cache
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/Example001.dll
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/refint/Example001.dll
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/Example001.pdb
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/Example001.genruntimeconfig.cache
+/Users/i-send/Desktop/Examples/Example001/obj/Debug/net7.0/ref/Example001.dll
